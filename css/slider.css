@@ -1,0 +1,6 @@
+#sliderTempo .thumb{
+ -fx-background-image: url("carro.png");
+ -fx-background-color: transparent;
+ -fx-background-repeat: no-repeat;
+ -fx-padding: 15;
+}
